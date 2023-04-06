@@ -1,4 +1,4 @@
-<h1 align="center">front</h3>
+<h1 align="center">console</h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
